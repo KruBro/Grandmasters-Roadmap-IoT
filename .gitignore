@@ -1,0 +1,15 @@
+# ESP-IDF build output
+build/
+build-*/
+dist/
+
+# Other generated files
+sdkconfig
+sdkconfig.old
+/partitions.bin
+*.elf
+*.map
+*.bin
+
+# VS Code files
+.vscode/
